@@ -87,12 +87,6 @@ Each row represents one respondent.
 
 ---
 
-## 📬 Contact
-
-For suggestions or contributions, please open an issue or contact [your-email@example.com].
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License.
